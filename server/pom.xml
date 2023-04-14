@@ -31,7 +31,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20200518</version>
+      <version>20230227</version>
     </dependency>
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
